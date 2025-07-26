@@ -1,6 +1,6 @@
 ## Sales Dashboard Project
 
-Create insightful sales reports and track business performance with this interactive Excel dashboard powered by Pivot Tables. Easily visualize metrics and trends from your raw sales data.
+Created insightful sales reports and track business performance with this interactive Excel dashboard powered by Pivot Tables. Easily visualize metrics and trends from your raw sales data.
 
 ## Description
 
