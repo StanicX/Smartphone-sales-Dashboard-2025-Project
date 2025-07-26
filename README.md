@@ -42,7 +42,7 @@ Feedback is welcome to help improve future versions!
 ## Credits & Contributors
 Special thanks to Rituraj Dixit Sir for guidance and feedback on the project.
 
-Project built and maintained by [your name or GitHub username].
+Project built and maintained by [StanicX](https://github.com/StanicX).
 
 💖 Inspiration
 This project was my opportunity to grow my skills in data analysis, Excel visualization, and handling real-world business data. Fork it, use it, or adapt it to your own needs!
